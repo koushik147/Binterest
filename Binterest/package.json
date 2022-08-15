@@ -1,0 +1,19 @@
+{
+  "name": "lab5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Koushik_Anitha_Raja",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server": "^3.6.7",
+    "axios": "^0.26.1",
+    "graphql": "^16.3.0",
+    "redis": "^4.0.6",
+    "uuid": "^8.3.2"
+  }
+}
